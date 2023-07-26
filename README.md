@@ -24,7 +24,6 @@
   - Developed and maintained backend systems for the M-gas platform.
   - Collaborated with cross-functional teams to design and implement new features.
   - Improved application performance and scalability through code optimizations.
-  - Mentored junior developers and conducted code reviews.
 
 # 🚀 Open to Collaboration:
 I'm passionate about collaborating on exciting projects and contributing to open-source initiatives. If you have an interesting project or need help with anything related to web development, feel free to reach out to me!
@@ -32,7 +31,7 @@ I'm passionate about collaborating on exciting projects and contributing to open
 # ⚽ Hobbies and Interests:
 - Football Enthusiast: I play soccer on weekends and follow my favorite teams in my free time<br>
  ![GGMU](https://upload.wikimedia.org/wikipedia/hif/f/ff/Manchester_United_FC_crest.png?20150523185345?style=for-the-badge&logo=c&logoColor=white)
- ![Nguvu Moja](https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Simba_Sports_Club.png/170px-Simba_Sports_Club.png?style=for-the-badge&logo=c&logoColor=white)
+ ![Nguvu Moja](https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Simba_Sports_Club.png/190px-Simba_Sports_Club.png?style=for-the-badge&logo=c&logoColor=white)
 - Travel: Exploring new places and experiencing different cultures is one of my passions.
 
 
