@@ -31,7 +31,7 @@
 I'm passionate about collaborating on exciting projects and contributing to open-source initiatives. If you have an interesting project or need help with anything related to web development, feel free to reach out to me!
 
 # ⚽ Hobbies and Interests:
-- Football Enthusiast: I play soccer on weekends and follow my favorite teams in my free time ![GGMU](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FManchester_United_F.C.&psig=AOvVaw3Gp-o1ubJg-7KrbBGcmO5e&ust=1690444001170000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiwnOTwq4ADFQAAAAAdAAAAABAE) /![Nguvu Moja]([simba_sports_logo_url](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSimba_S.C.&psig=AOvVaw3mCmsq-CkuhxufiNXjIQ-F&ust=1690444041208000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjctfbwq4ADFQAAAAAdAAAAABAE)https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSimba_S.C.&psig=AOvVaw3mCmsq-CkuhxufiNXjIQ-F&ust=1690444041208000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjctfbwq4ADFQAAAAAdAAAAABAE).
+- Football Enthusiast: I play soccer on weekends and follow my favorite teams in my free time ![GGMU]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FManchester_United_F.C.&psig=AOvVaw3Gp-o1ubJg-7KrbBGcmO5e&ust=1690444001170000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiwnOTwq4ADFQAAAAAdAAAAABAE](https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png)) /![Nguvu Moja](https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Simba_Sports_Club.png/170px-Simba_Sports_Club.png).
 - Travel: Exploring new places and experiencing different cultures is one of my passions.
 
 
