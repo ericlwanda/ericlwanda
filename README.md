@@ -19,5 +19,21 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+# 💼 Professional Experience:
+- **Software Developer** at M-gas Tanzania (August 2022 - Present)
+  - Developed and maintained backend systems for the M-gas platform.
+  - Collaborated with cross-functional teams to design and implement new features.
+  - Improved application performance and scalability through code optimizations.
+  - Mentored junior developers and conducted code reviews.
+
+# 🚀 Open to Collaboration:
+I'm passionate about collaborating on exciting projects and contributing to open-source initiatives. If you have an interesting project or need help with anything related to web development, feel free to reach out to me!
+
+# ⚽ Hobbies and Interests:
+- Soccer Enthusiast: I play soccer on weekends and follow my favorite teams in my free time GGMU / Nguvu Moja.
+- Travel: Exploring new places and experiencing different cultures is one of my passions.
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ericlwanda&icon=0&color=4)](https://visitcount.itsvg.in)
