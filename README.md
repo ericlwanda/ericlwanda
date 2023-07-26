@@ -31,7 +31,7 @@
 I'm passionate about collaborating on exciting projects and contributing to open-source initiatives. If you have an interesting project or need help with anything related to web development, feel free to reach out to me!
 
 # ⚽ Hobbies and Interests:
-- Football Enthusiast: I play soccer on weekends and follow my favorite teams in my free time ![GGMU](https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png?style=for-the-badge&logo=c&logoColor=white) /![Nguvu Moja](https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Simba_Sports_Club.png/170px-Simba_Sports_Club.png?style=for-the-badge&logo=c&logoColor=white).
+- Football Enthusiast: I play soccer on weekends and follow my favorite teams in my free time ![GGMU](https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/50px-Manchester_United_FC_crest.svg.png?style=for-the-badge&logo=c&logoColor=white) ![Nguvu Moja](https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Simba_Sports_Club.png/50px-Simba_Sports_Club.png?style=for-the-badge&logo=c&logoColor=white).
 - Travel: Exploring new places and experiencing different cultures is one of my passions.
 
 
