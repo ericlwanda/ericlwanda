@@ -2,7 +2,7 @@
 <h3 align="center">A full stack Developer from Tanzania</h3>
 
 # 💫 About Me:
-🔭 I’m currently working at M-gas Tanzania<br>🌱 I’m currently learning **AWS Serverless and Dynamo DB**<br>💬 Ask me about **Laravel, PHP, JS,NodeJS,Springboot**<br>📫 How to reach me **ericlwanda1@.com**
+🔭 I’m currently working at M-gas Tanzania<br>🌱 I’m currently learning **AWS Serverless and Dynamo DB**<br>💬 Ask me about **Laravel, PHP, JS,NodeJS,Springboot**<br>📫 How to reach me **ericlwanda1@gmail.com**
 
 
 ## 🌐 Socials:
